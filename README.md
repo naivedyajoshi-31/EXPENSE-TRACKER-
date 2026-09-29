@@ -1,2 +1,27 @@
-# EXPENSE-TRACKER-
-The project helps users add and view their daily expenses and calculate their total spending. It uses 4 Python modules to keep the code organized and demonstrates basic concepts such as functions, lists, loops, modules, and file handling.
+# Expense Tracker 
+
+The project allows users to add expenses, view them, and calculate their total spending. It also stores expenses in a text file so they can be loaded again when the program is started.
+
+# Features
+
+*  Add expenses
+*  View expenses
+*  Calculate total expenses
+*  Save expenses to a file
+*  Load saved expenses
+*  Uses 4 Python modules
+
+#  Technologies Used
+
+* Python 3
+* File Handling
+* Functions
+* Lists
+* Loops
+* Modules
+
+#  Project Structure
+ main.py
+ expense.py
+ file.py
+ report.py
